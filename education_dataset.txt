@@ -1,0 +1,72 @@
+Q: What is Artificial Intelligence? A: Artificial Intelligence is the simulation of human intelligence in machines that are programmed to think and learn.
+Q: What is Machine Learning? A: Machine Learning is a subset of AI that allows systems to learn from data without explicit programming.
+Q: What is Deep Learning? A: Deep Learning is a subset of machine learning that uses neural networks with multiple layers.
+Q: What is a neural network? A: A neural network is a computational model inspired by the human brain consisting of interconnected neurons.
+Q: What is supervised learning? A: Supervised learning is a machine learning approach where models are trained using labeled data.
+Q: What is unsupervised learning? A: Unsupervised learning is a technique where models learn patterns from unlabeled data.
+Q: What is reinforcement learning? A: Reinforcement learning is a learning method where an agent learns by interacting with an environment and receiving rewards.
+Q: What is overfitting? A: Overfitting occurs when a model performs well on training data but poorly on unseen data.
+Q: What is underfitting? A: Underfitting happens when a model is too simple to capture the underlying pattern in data.
+Q: What is a dataset? A: A dataset is a collection of related data used for training and testing models.
+Q: What is data preprocessing? A: Data preprocessing involves cleaning and transforming data before training a model.
+Q: What is feature engineering? A: Feature engineering is the process of selecting and transforming variables to improve model performance.
+Q: What is a training set? A: A training set is the portion of data used to train a machine learning model.
+Q: What is a test set? A: A test set is used to evaluate the performance of a trained model.
+Q: What is validation data? A: Validation data is used to tune model parameters during training.
+Q: What is accuracy? A: Accuracy is the ratio of correct predictions to total predictions.
+Q: What is precision? A: Precision measures how many predicted positive values are actually positive.
+Q: What is recall? A: Recall measures how many actual positive values are correctly predicted.
+Q: What is F1 score? A: F1 score is the harmonic mean of precision and recall.
+Q: What is a confusion matrix? A: A confusion matrix shows the performance of a classification model.
+Q: What is NLP? A: Natural Language Processing is a field of AI that deals with interaction between computers and human language.
+Q: What is tokenization? A: Tokenization is the process of splitting text into words or subwords.
+Q: What is stemming? A: Stemming reduces words to their root form.
+Q: What is lemmatization? A: Lemmatization converts words to their base or dictionary form.
+Q: What is a language model? A: A language model predicts the probability of word sequences.
+Q: What is GPT? A: GPT is a generative pre-trained transformer model for text generation.
+Q: What is an SLM? A: An SLM is a small language model designed for efficient text generation.
+Q: What is fine-tuning? A: Fine-tuning adapts a pre-trained model to a specific task.
+Q: What is transfer learning? A: Transfer learning uses knowledge from one task to improve learning in another.
+Q: What is a transformer model? A: A transformer is a deep learning model based on attention mechanisms.
+Q: What is attention mechanism? A: Attention allows a model to focus on important parts of input data.
+Q: What is an epoch? A: An epoch is one complete pass through the training dataset.
+Q: What is batch size? A: Batch size is the number of samples processed before updating the model.
+Q: What is loss function? A: A loss function measures the error between predicted and actual values.
+Q: What is gradient descent? A: Gradient descent is an optimization algorithm to minimize loss.
+Q: What is learning rate? A: Learning rate controls how much model weights change during training.
+Q: What is activation function? A: Activation functions introduce non-linearity into neural networks.
+Q: What is ReLU? A: ReLU is an activation function that outputs zero for negative inputs.
+Q: What is sigmoid function? A: Sigmoid maps values between 0 and 1.
+Q: What is softmax? A: Softmax converts outputs into probability distributions.
+Q: What is backpropagation? A: Backpropagation updates neural network weights based on error.
+Q: What is dropout? A: Dropout prevents overfitting by randomly disabling neurons.
+Q: What is cross-entropy loss? A: Cross-entropy loss measures classification error.
+Q: What is model evaluation? A: Model evaluation assesses performance on unseen data.
+Q: What is a chatbot? A: A chatbot is a program that simulates human conversation.
+Q: What is generative AI? A: Generative AI creates new content such as text or images.
+Q: What is prompt engineering? A: Prompt engineering designs inputs to guide AI outputs.
+Q: What is inference? A: Inference is using a trained model to make predictions.
+Q: What is deployment? A: Deployment makes a trained model available for real use.
+Q: What is an API? A: An API allows software applications to communicate.
+Q: What is Streamlit? A: Streamlit is a Python framework for building data apps.
+Q: What is PyTorch? A: PyTorch is a deep learning framework for model development.
+Q: What is TensorFlow? A: TensorFlow is a machine learning framework by Google.
+Q: What is HuggingFace? A: HuggingFace provides pre-trained models and NLP tools.
+Q: What is token embedding? A: Token embedding converts words into numerical vectors.
+Q: What is cosine similarity? A: Cosine similarity measures similarity between vectors.
+Q: What is model bias? A: Model bias occurs when predictions favor certain outcomes.
+Q: What is data imbalance? A: Data imbalance happens when classes are unevenly distributed.
+Q: What is explainable AI? A: Explainable AI makes model decisions understandable.
+Q: What is cloud deployment? A: Cloud deployment hosts models on cloud platforms.
+Q: What is GPU? A: A GPU accelerates parallel computations in deep learning.
+Q: What is CPU? A: CPU handles general-purpose computations.
+Q: What is memory in AI? A: Memory stores learned parameters in a model.
+Q: What is context window? A: Context window is the amount of text a model remembers.
+Q: What is text generation? A: Text generation is producing human-like text.
+Q: What is sampling? A: Sampling selects tokens based on probability.
+Q: What is temperature? A: Temperature controls randomness in text generation.
+Q: What is top-k sampling? A: Top-k sampling selects from the k most likely tokens.
+Q: What is top-p sampling? A: Top-p selects tokens with cumulative probability p.
+Q: What is model checkpoint? A: A checkpoint saves model weights during training.
+Q: What is inference latency? A: Inference latency is the time taken to generate output.
+Q: What is scalability? A: Scalability is the ability to handle increased workload.

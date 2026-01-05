@@ -1,0 +1,73 @@
+question,answer
+What is Artificial Intelligence?,Artificial Intelligence is the simulation of human intelligence in machines that are programmed to think and learn.
+What is Machine Learning?,Machine Learning is a subset of AI that allows systems to learn from data without explicit programming.
+What is Deep Learning?,Deep Learning is a subset of machine learning that uses neural networks with multiple layers.
+What is a neural network?,A neural network is a computational model inspired by the human brain consisting of interconnected neurons.
+What is supervised learning?,Supervised learning is a machine learning approach where models are trained using labeled data.
+What is unsupervised learning?,Unsupervised learning is a technique where models learn patterns from unlabeled data.
+What is reinforcement learning?,Reinforcement learning is a learning method where an agent learns by interacting with an environment and receiving rewards.
+What is overfitting?,Overfitting occurs when a model performs well on training data but poorly on unseen data.
+What is underfitting?,Underfitting happens when a model is too simple to capture the underlying pattern in data.
+What is a dataset?,A dataset is a collection of related data used for training and testing models.
+What is data preprocessing?,Data preprocessing involves cleaning and transforming data before training a model.
+What is feature engineering?,Feature engineering is the process of selecting and transforming variables to improve model performance.
+What is a training set?,A training set is the portion of data used to train a machine learning model.
+What is a test set?,A test set is used to evaluate the performance of a trained model.
+What is validation data?,Validation data is used to tune model parameters during training.
+What is accuracy?,Accuracy is the ratio of correct predictions to total predictions.
+What is precision?,Precision measures how many predicted positive values are actually positive.
+What is recall?,Recall measures how many actual positive values are correctly predicted.
+What is F1 score?,F1 score is the harmonic mean of precision and recall.
+What is a confusion matrix?,A confusion matrix shows the performance of a classification model.
+What is NLP?,Natural Language Processing is a field of AI that deals with interaction between computers and human language.
+What is tokenization?,Tokenization is the process of splitting text into words or subwords.
+What is stemming?,Stemming reduces words to their root form.
+What is lemmatization?,Lemmatization converts words to their base or dictionary form.
+What is a language model?,A language model predicts the probability of word sequences.
+What is GPT?,GPT is a generative pre-trained transformer model for text generation.
+What is an SLM?,An SLM is a small language model designed for efficient text generation.
+What is fine-tuning?,Fine-tuning adapts a pre-trained model to a specific task.
+What is transfer learning?,Transfer learning uses knowledge from one task to improve learning in another.
+What is a transformer model?,A transformer is a deep learning model based on attention mechanisms.
+What is attention mechanism?,Attention allows a model to focus on important parts of input data.
+What is an epoch?,An epoch is one complete pass through the training dataset.
+What is batch size?,Batch size is the number of samples processed before updating the model.
+What is loss function?,A loss function measures the error between predicted and actual values.
+What is gradient descent?,Gradient descent is an optimization algorithm to minimize loss.
+What is learning rate?,Learning rate controls how much model weights change during training.
+What is activation function?,Activation functions introduce non-linearity into neural networks.
+What is ReLU?,ReLU is an activation function that outputs zero for negative inputs.
+What is sigmoid function?,Sigmoid maps values between 0 and 1.
+What is softmax?,Softmax converts outputs into probability distributions.
+What is backpropagation?,Backpropagation updates neural network weights based on error.
+What is dropout?,Dropout prevents overfitting by randomly disabling neurons.
+What is cross-entropy loss?,Cross-entropy loss measures classification error.
+What is model evaluation?,Model evaluation assesses performance on unseen data.
+What is a chatbot?,A chatbot is a program that simulates human conversation.
+What is generative AI?,Generative AI creates new content such as text or images.
+What is prompt engineering?,Prompt engineering designs inputs to guide AI outputs.
+What is inference?,Inference is using a trained model to make predictions.
+What is deployment?,Deployment makes a trained model available for real use.
+What is an API?,An API allows software applications to communicate.
+What is Streamlit?,Streamlit is a Python framework for building data apps.
+What is PyTorch?,PyTorch is a deep learning framework for model development.
+What is TensorFlow?,TensorFlow is a machine learning framework by Google.
+What is HuggingFace?,HuggingFace provides pre-trained models and NLP tools.
+What is token embedding?,Token embedding converts words into numerical vectors.
+What is cosine similarity?,Cosine similarity measures similarity between vectors.
+What is model bias?,Model bias occurs when predictions favor certain outcomes.
+What is data imbalance?,Data imbalance happens when classes are unevenly distributed.
+What is explainable AI?,Explainable AI makes model decisions understandable.
+What is cloud deployment?,Cloud deployment hosts models on cloud platforms.
+What is GPU?,A GPU accelerates parallel computations in deep learning.
+What is CPU?,CPU handles general-purpose computations.
+What is memory in AI?,Memory stores learned parameters in a model.
+What is context window?,Context window is the amount of text a model remembers.
+What is text generation?,Text generation is producing human-like text.
+What is sampling?,Sampling selects tokens based on probability.
+What is temperature?,Temperature controls randomness in text generation.
+What is top-k sampling?,Top-k sampling selects from the k most likely tokens.
+What is top-p sampling?,Top-p selects tokens with cumulative probability p.
+What is model checkpoint?,A checkpoint saves model weights during training.
+What is inference latency?,Inference latency is the time taken to generate output.
+What is scalability?,Scalability is the ability to handle increased workload.
